@@ -13,7 +13,7 @@ To run the script,
 4. Edit the individual.py file
     * Modify the `moodle_mail` and `moodle_pass` variables with your credentials
     * Change the chromedriver file location and name if necessary (OS dependent)
-    * Edit the `attendance_page_urls` varible with the URLs to all the attendance pages of your subjects
+    * Edit the `attendance_page_urls` variable with the URLs to all the attendance pages of your subjects
 5. Inside the repository folder, execute the following commands
 ```bash
 pip install selenium
