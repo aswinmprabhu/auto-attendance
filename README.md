@@ -63,4 +63,7 @@ To run the script,
 pip install selenium
 python3 ./attendance.py --config ./config.json
 ```
+
+Please visit [MY BLOG](https://aswinmprabhu.netlify.app/posts/automating-attendance-recording-on-moodle-using-selenium/) for better understanding about this project.
+
 (Try using pip3 is pip command does not work)
