@@ -66,4 +66,4 @@ python3 ./attendance.py --config ./config.json
 
 Please visit [MY BLOG](https://aswinmprabhu.netlify.app/posts/automating-attendance-recording-on-moodle-using-selenium/) for better understanding of this project.
 
-(Try using pip3 is pip command does not work)
+(Try using pip3 if pip command does not work)
